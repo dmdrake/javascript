@@ -2,7 +2,8 @@
 
 This answer will be coded in JavaScript.
 
-For this solution you will need to create three variables; a high mid and low pointer. The low pointer goes at the beginning of the array and the high pointer at the end of the array. place the mid pointer at the begining of the array and have it iterate through.
+For this solution you will need to create three variables; a high mid and low pointer. The low pointer goes at the beginning of the array and 
+the high pointer at the end of the array. place the mid pointer at the begining of the array and have it iterate through.
 
 If the element at arr[mid] is a 2, then swap arr[mid] and arr[high] and decrease the high pointer by 1.
 If the element at arr[mid] is a 0, then swap arr[mid] and arr[low] and increase the low and mid pointers by 1.

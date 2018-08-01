@@ -2,7 +2,9 @@
 
 This answer will be coded in JavaScript.
 
-Bubble sort goes through and compares each index to each other one at a time. If the number on the right is larger than the one on the left, the numbers are shifted. This will happen until the function goes through the entire array without swapping any elements which will exit it's loop and return the array.
+Bubble sort goes through and compares each index to each other one at a time. If the number on the right is larger than the one on the left, 
+the numbers are shifted. This will happen until the function goes through the entire array without swapping any elements which will exit it's 
+loop and return the array.
 */
 
 var arr = [3, 5, 6, 1, 9, 2, 4, 8, 7];

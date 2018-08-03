@@ -7,6 +7,8 @@ Using a for loop and if else if conditions, print each number 1 through
 25.
 */
 
+//the for loop iterates 1-30 and console.log's the i, whether it's a 
+//phrase or number
 for (var i =1 ; i <= 30; i++){
     if (i % 5 === 0 && i % 3 === 0){
         console.log("FizzBuzz");

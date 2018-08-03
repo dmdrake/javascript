@@ -14,10 +14,13 @@ fizzBuzz(arr);
 console.log(arr);
 
 function fizzBuzz(arr){
+    //Pointers at the start and end of the array.
     low = 0;
     high = arr.length -1;
 
     while (low <= high){
+        //The modulo operator returns the remainder. If the remainder is zero than the number is
+        //the is a multiple of the 3, 5, or both. 
         if (arr[low] % 3 === 0 && arr[low] % 5 === 0){
             arr[low] = "FizzBuzz";
             low++;

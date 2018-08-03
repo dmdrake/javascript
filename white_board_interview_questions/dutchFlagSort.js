@@ -1,7 +1,5 @@
 /*Given the array please sort the numbers within the time of 0(n)
 
-This answer will be coded in JavaScript.
-
 For this solution you will need to create three variables; a high mid and low pointer. The low pointer goes at the beginning of the array and 
 the high pointer at the end of the array. place the mid pointer at the begining of the array and have it iterate through.
 

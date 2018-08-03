@@ -5,7 +5,7 @@ For this problem you will create two pointer a low pointer(which will start at t
 pointer(which will be at the end of the array.) The low pointer will iterate through each element
 in the array. The appropriate elements will be changed and the low pointer will increase by 1.
 */
-var arr = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25];
+var arr = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30];
 console.log("The numbers before sorting");
 console.log(arr);
 console.log("-------------------------------");
